@@ -52,4 +52,4 @@ Classification Model:
   - Reevalute data preparation (outliers, handling NaN's etc.)
 
 11) Which were the challenges in the project development?
-Mainly finding time to be thorough enough, some parts i went over too quick i feel.
+  - Mainly finding time to be more thorough, some parts i went over too quick i feel and i have not done any inferential statistics.
